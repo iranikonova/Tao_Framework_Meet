@@ -1,0 +1,44 @@
+C:\Users\Ірина\Documents\Visual Studio 2008\Projects\Tao_Framework_Meet\Tao_Framework_Meet\bin\Debug\Tao_Framework_Meet.exe
+C:\Users\Ірина\Documents\Visual Studio 2008\Projects\Tao_Framework_Meet\Tao_Framework_Meet\bin\Debug\Tao_Framework_Meet.pdb
+C:\Users\Ірина\Documents\Visual Studio 2008\Projects\Tao_Framework_Meet\Tao_Framework_Meet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ірина\Documents\Visual Studio 2008\Projects\Tao_Framework_Meet\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.Form1.resources
+C:\Users\Ірина\Documents\Visual Studio 2008\Projects\Tao_Framework_Meet\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.Properties.Resources.resources
+C:\Users\Ірина\Documents\Visual Studio 2008\Projects\Tao_Framework_Meet\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.csproj.GenerateResource.Cache
+C:\Users\Ірина\Documents\Visual Studio 2008\Projects\Tao_Framework_Meet\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.exe
+C:\Users\Ірина\Documents\Visual Studio 2008\Projects\Tao_Framework_Meet\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.pdb
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.exe
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.pdb
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet\Tao_Framework_Meet\bin\Debug\Tao_Framework_Meet.exe
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet\Tao_Framework_Meet\bin\Debug\Tao_Framework_Meet.pdb
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet\Tao_Framework_Meet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.Form1.resources
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.Properties.Resources.resources
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.csproj.GenerateResource.Cache
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet - копия\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.exe
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet - копия\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.pdb
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet - копия\Tao_Framework_Meet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet - копия\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.Form1.resources
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet - копия\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.Properties.Resources.resources
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet - копия\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.csproj.GenerateResource.Cache
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet - копия\Tao_Framework_Meet\bin\Debug\Tao_Framework_Meet.exe
+C:\Users\Ірина\Documents\прикладна математика\programs\Tao_Framework_Meet - копия\Tao_Framework_Meet\bin\Debug\Tao_Framework_Meet.pdb
+C:\Users\Ірина\Documents\прикладна математика\4курс\2 семестр\курсова!!\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.exe
+C:\Users\Ірина\Documents\прикладна математика\4курс\2 семестр\курсова!!\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.pdb
+C:\Users\Ірина\Documents\прикладна математика\4курс\2 семестр\курсова!!\Tao_Framework_Meet\bin\Debug\Tao_Framework_Meet.exe
+C:\Users\Ірина\Documents\прикладна математика\4курс\2 семестр\курсова!!\Tao_Framework_Meet\bin\Debug\Tao_Framework_Meet.pdb
+C:\Users\Ірина\Documents\прикладна математика\4курс\2 семестр\курсова!!\Tao_Framework_Meet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ірина\Documents\прикладна математика\4курс\2 семестр\курсова!!\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.Properties.Resources.resources
+C:\Users\Ірина\Documents\прикладна математика\4курс\2 семестр\курсова!!\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.csproj.GenerateResource.Cache
+C:\Users\Ірина\Documents\прикладна математика\4курс\2 семестр\курсова!!\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.Form0.resources
+C:\Users\Ірина\Documents\прикладна математика\4курс\2 семестр\курсова!!\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.Form2.resources
+C:\Users\Ірина\Documents\прикладна математика\4курс\2 семестр\курсова!!\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.frmDialogueSavePrimitive.resources
+D:\Applied Mathematics\4курс\2 семестр\курсова\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.exe
+D:\Applied Mathematics\4курс\2 семестр\курсова\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.pdb
+D:\Applied Mathematics\4курс\2 семестр\курсова\Tao_Framework_Meet\bin\Debug\Tao_Framework_Meet.exe
+D:\Applied Mathematics\4курс\2 семестр\курсова\Tao_Framework_Meet\bin\Debug\Tao_Framework_Meet.pdb
+D:\Applied Mathematics\4курс\2 семестр\курсова\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.csprojResolveAssemblyReference.cache
+D:\Applied Mathematics\4курс\2 семестр\курсова\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.Form0.resources
+D:\Applied Mathematics\4курс\2 семестр\курсова\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.Form2.resources
+D:\Applied Mathematics\4курс\2 семестр\курсова\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.frmDialogueSavePrimitive.resources
+D:\Applied Mathematics\4курс\2 семестр\курсова\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.Properties.Resources.resources
+D:\Applied Mathematics\4курс\2 семестр\курсова\Tao_Framework_Meet\obj\Debug\Tao_Framework_Meet.csproj.GenerateResource.Cache
